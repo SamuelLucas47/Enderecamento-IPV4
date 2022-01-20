@@ -1,5 +1,3 @@
-#!/bin/python3
-
 #Código escrito em python para descobrir o endereço IPV4 de um site.
 import socket
 
